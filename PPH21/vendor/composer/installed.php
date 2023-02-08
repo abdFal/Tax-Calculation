@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'abdfal/my-php-library',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '646e3210d4b9f5ff8192eed2cb6c3130dee4060d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'abdfal/my-php-library' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '646e3210d4b9f5ff8192eed2cb6c3130dee4060d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

@@ -39,7 +39,7 @@
       "App\\Calculate\\": "App/Calculate/"
     }
   },
-  "minimum-stability": "beta",
+  "minimum-stability": "stable",
   "homepage": "https://github.com/abdfal/Tax-Calculation",
   "support": {
     "email": "naufaldec07@gmail.com",

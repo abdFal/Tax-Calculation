@@ -3,7 +3,7 @@
         'name' => 'abdfal/my-php-library',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '543a12f850930da3ffc9498a38d80ddbba340770',
+        'reference' => 'dcfaa0f38895f56417633b2ae478afd95e3efa38',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'abdfal/my-php-library' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '543a12f850930da3ffc9498a38d80ddbba340770',
+            'reference' => 'dcfaa0f38895f56417633b2ae478afd95e3efa38',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

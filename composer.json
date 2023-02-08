@@ -44,11 +44,7 @@
       "App\\Calculate\\": "App/Calculate/"
     }
   },
-  "keywords": [
-    "calculate",
-    "math",
-    "arithmetic"
-  ],
+  "minimum-stability": "beta",
   "homepage": "https://github.com/abdfal/Tax-Calculation",
   "support": {
     "email": "naufaldec07@gmail.com",

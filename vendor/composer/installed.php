@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'abdfal/my-php-library',
+        'name' => 'abdfal/my-tax-library',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '646e3210d4b9f5ff8192eed2cb6c3130dee4060d',
+        'reference' => '5fccbf5d34ecc27b7be661fd2ae6148826d7576a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'abdfal/my-php-library' => array(
+        'abdfal/my-tax-library' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '646e3210d4b9f5ff8192eed2cb6c3130dee4060d',
+            'reference' => '5fccbf5d34ecc27b7be661fd2ae6148826d7576a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

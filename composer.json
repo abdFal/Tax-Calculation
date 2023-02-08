@@ -1,7 +1,7 @@
 {
-  "name": "abdfal/my-php-library",
+  "name": "abdfal/my-tax-library",
   "license": "propietary",
-  "description": "My PHP Library for study",
+  "description": "My PHP Library for Tax Calculation",
   "type": "library",
   "authors": [
     {

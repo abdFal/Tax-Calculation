@@ -15,9 +15,6 @@
     "php": "^8.0"
   },
   "abdfal/my-php-library": "^1.0",
-  "provide": {
-    "ext-json": "1.3.0"
-  },
   "suggest": {
     "ext-mbstring": "For better Unicode support"
   },
